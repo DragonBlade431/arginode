@@ -1,0 +1,45 @@
+.history-page {
+  max-width: 1200px;
+  margin: auto;
+  padding: 30px;
+}
+
+.history-title {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+.history-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  gap: 25px;
+}
+
+.history-card {
+  background: #fff;
+  border-radius: 20px;
+  padding: 22px;
+  box-shadow: 0 12px 40px rgba(0,0,0,.08);
+}
+
+.history-crop {
+  color: #2e7d32;
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.history-row {
+  display: flex;
+  justify-content: space-between;
+  margin: 6px 0;
+  color: #555;
+}
+
+.history-time {
+  text-align: right;
+  margin-top: 12px;
+  font-size: 13px;
+  opacity: .6;
+}

@@ -5188,5 +5188,4800 @@
         "source": "ESP32",
         "id": "pred_164",
         "saved_at": "2025-11-21T15:40:10.927186"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 255.0,
+            "P": 155.0,
+            "K": 128.0,
+            "pH": 14.0,
+            "temperature": 26.9,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_165",
+        "saved_at": "2026-01-03T18:19:38.777785"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 26.6,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_166",
+        "saved_at": "2026-01-03T18:19:43.505386"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 129.0,
+            "P": 129.0,
+            "K": 255.0,
+            "pH": 14.0,
+            "temperature": 26.0,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_167",
+        "saved_at": "2026-01-03T18:19:48.261609"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 239.0,
+            "P": 253.0,
+            "K": 253.0,
+            "pH": 14.0,
+            "temperature": 26.6,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_168",
+        "saved_at": "2026-01-03T18:19:53.013293"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 159.0,
+            "P": 128.0,
+            "K": 128.0,
+            "pH": 14.0,
+            "temperature": 26.8,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_169",
+        "saved_at": "2026-01-03T18:19:57.769500"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 255.0,
+            "P": 155.0,
+            "K": 128.0,
+            "pH": 14.0,
+            "temperature": 26.8,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_170",
+        "saved_at": "2026-01-03T18:20:32.297458"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 26.7,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_171",
+        "saved_at": "2026-01-03T18:20:37.033024"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 129.0,
+            "P": 129.0,
+            "K": 255.0,
+            "pH": 14.0,
+            "temperature": 26.0,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_172",
+        "saved_at": "2026-01-03T18:20:41.786472"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 239.0,
+            "P": 253.0,
+            "K": 253.0,
+            "pH": 14.0,
+            "temperature": 26.9,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_173",
+        "saved_at": "2026-01-03T18:20:46.539431"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 159.0,
+            "P": 128.0,
+            "K": 128.0,
+            "pH": 14.0,
+            "temperature": 26.0,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_174",
+        "saved_at": "2026-01-03T18:20:51.292596"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 26.9,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_175",
+        "saved_at": "2026-01-03T18:20:56.048020"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 255.0,
+            "P": 155.0,
+            "K": 128.0,
+            "pH": 14.0,
+            "temperature": 26.0,
+            "humidity": 52.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_176",
+        "saved_at": "2026-01-03T18:22:57.179935"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 26.9,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_177",
+        "saved_at": "2026-01-03T18:23:01.914958"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 129.0,
+            "P": 129.0,
+            "K": 255.0,
+            "pH": 14.0,
+            "temperature": 26.2,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_178",
+        "saved_at": "2026-01-03T18:23:06.666681"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 239.0,
+            "P": 253.0,
+            "K": 253.0,
+            "pH": 14.0,
+            "temperature": 26.5,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_179",
+        "saved_at": "2026-01-03T18:23:11.420150"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 159.0,
+            "P": 128.0,
+            "K": 128.0,
+            "pH": 14.0,
+            "temperature": 26.4,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_180",
+        "saved_at": "2026-01-03T18:23:16.172708"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 26.2,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_181",
+        "saved_at": "2026-01-03T18:23:20.924368"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 129.0,
+            "P": 255.0,
+            "K": 219.0,
+            "pH": 14.0,
+            "temperature": 26.5,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_182",
+        "saved_at": "2026-01-03T18:23:25.675557"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 205.0,
+            "P": 252.0,
+            "K": 191.0,
+            "pH": 14.0,
+            "temperature": 26.6,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_183",
+        "saved_at": "2026-01-03T18:23:30.436405"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 155.0,
+            "P": 128.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 26.9,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_184",
+        "saved_at": "2026-01-03T18:23:35.188318"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 129.0,
+            "pH": 14.0,
+            "temperature": 26.2,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_185",
+        "saved_at": "2026-01-03T18:23:39.942751"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 129.0,
+            "P": 255.0,
+            "K": 239.0,
+            "pH": 14.0,
+            "temperature": 26.5,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_186",
+        "saved_at": "2026-01-03T18:23:44.693042"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 253.0,
+            "P": 253.0,
+            "K": 159.0,
+            "pH": 14.0,
+            "temperature": 26.7,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_187",
+        "saved_at": "2026-01-03T18:23:49.449921"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 128.0,
+            "P": 128.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 26.1,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_188",
+        "saved_at": "2026-01-03T18:23:54.204281"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 129.0,
+            "pH": 14.0,
+            "temperature": 26.5,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_189",
+        "saved_at": "2026-01-03T18:23:58.955763"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 255.0,
+            "P": 219.0,
+            "K": 205.0,
+            "pH": 14.0,
+            "temperature": 26.6,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_190",
+        "saved_at": "2026-01-03T18:24:03.711662"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 252.0,
+            "P": 191.0,
+            "K": 155.0,
+            "pH": 14.0,
+            "temperature": 26.1,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_191",
+        "saved_at": "2026-01-03T18:24:08.465362"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 128.0,
+            "P": 131.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 26.5,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_192",
+        "saved_at": "2026-01-03T18:24:13.218141"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 129.0,
+            "K": 129.0,
+            "pH": 14.0,
+            "temperature": 26.7,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_193",
+        "saved_at": "2026-01-03T18:24:17.971446"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 255.0,
+            "P": 239.0,
+            "K": 253.0,
+            "pH": 14.0,
+            "temperature": 26.9,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_194",
+        "saved_at": "2026-01-03T18:24:22.726784"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 253.0,
+            "P": 159.0,
+            "K": 128.0,
+            "pH": 14.0,
+            "temperature": 26.1,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_195",
+        "saved_at": "2026-01-03T18:24:27.481321"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 128.0,
+            "P": 131.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 26.1,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_196",
+        "saved_at": "2026-01-03T18:24:32.232298"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 129.0,
+            "K": 255.0,
+            "pH": 14.0,
+            "temperature": 26.0,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_197",
+        "saved_at": "2026-01-03T18:24:36.984890"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 219.0,
+            "P": 205.0,
+            "K": 252.0,
+            "pH": 14.0,
+            "temperature": 26.6,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_198",
+        "saved_at": "2026-01-03T18:24:41.740195"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 191.0,
+            "P": 155.0,
+            "K": 128.0,
+            "pH": 14.0,
+            "temperature": 26.8,
+            "humidity": 51.0,
+            "rainfall": 0.0,
+            "lat": 13.17,
+            "lon": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_199",
+        "saved_at": "2026-01-03T18:24:46.487133"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 255.0,
+            "P": 128.0,
+            "K": 128.0,
+            "pH": 8.6,
+            "temperature": 25.6,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_200",
+        "saved_at": "2026-01-03T20:55:22.463924"
+    },
+    {
+        "predicted_crop": "coconut",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bud Rot"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 131.0,
+            "pH": 8.55,
+            "temperature": 25.5,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_201",
+        "saved_at": "2026-01-03T20:55:27.197871"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 129.0,
+            "P": 129.0,
+            "K": 255.0,
+            "pH": 8.5,
+            "temperature": 25.9,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_202",
+        "saved_at": "2026-01-03T20:55:31.953813"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 230.0,
+            "P": 252.0,
+            "K": 252.0,
+            "pH": 8.6,
+            "temperature": 25.4,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_203",
+        "saved_at": "2026-01-03T20:55:36.701082"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 128.0,
+            "P": 128.0,
+            "K": 128.0,
+            "pH": 8.48,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_204",
+        "saved_at": "2026-01-03T20:55:41.449250"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 131.0,
+            "pH": 8.53,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_205",
+        "saved_at": "2026-01-03T20:55:46.201956"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 129.0,
+            "P": 255.0,
+            "K": 230.0,
+            "pH": 8.58,
+            "temperature": 25.5,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_206",
+        "saved_at": "2026-01-03T20:55:50.949013"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 230.0,
+            "P": 252.0,
+            "K": 128.0,
+            "pH": 8.6,
+            "temperature": 25.5,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_207",
+        "saved_at": "2026-01-03T20:55:55.705986"
+    },
+    {
+        "predicted_crop": "coconut",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bud Rot"
+        ],
+        "received_data": {
+            "N": 128.0,
+            "P": 128.0,
+            "K": 131.0,
+            "pH": 8.5,
+            "temperature": 25.5,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_208",
+        "saved_at": "2026-01-03T20:56:00.456307"
+    },
+    {
+        "predicted_crop": "coconut",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bud Rot"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 129.0,
+            "pH": 8.53,
+            "temperature": 25.4,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_209",
+        "saved_at": "2026-01-03T20:56:05.211813"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 129.0,
+            "P": 255.0,
+            "K": 230.0,
+            "pH": 8.5,
+            "temperature": 25.9,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_210",
+        "saved_at": "2026-01-03T20:56:09.963168"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 252.0,
+            "P": 252.0,
+            "K": 128.0,
+            "pH": 8.58,
+            "temperature": 25.8,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_211",
+        "saved_at": "2026-01-03T20:56:14.712462"
+    },
+    {
+        "predicted_crop": "coconut",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bud Rot"
+        ],
+        "received_data": {
+            "N": 128.0,
+            "P": 128.0,
+            "K": 131.0,
+            "pH": 8.58,
+            "temperature": 25.5,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_212",
+        "saved_at": "2026-01-03T20:56:19.466060"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 129.0,
+            "pH": 8.6,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_213",
+        "saved_at": "2026-01-03T20:56:24.217241"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 255.0,
+            "P": 230.0,
+            "K": 230.0,
+            "pH": 11.44,
+            "temperature": 25.6,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_214",
+        "saved_at": "2026-01-03T20:56:28.973453"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 252.0,
+            "P": 128.0,
+            "K": 135.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_215",
+        "saved_at": "2026-01-03T20:56:33.726439"
+    },
+    {
+        "predicted_crop": "coconut",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bud Rot"
+        ],
+        "received_data": {
+            "N": 128.0,
+            "P": 131.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 25.6,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_216",
+        "saved_at": "2026-01-03T20:56:38.479235"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 129.0,
+            "P": 129.0,
+            "K": 255.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_217",
+        "saved_at": "2026-01-03T20:56:43.236283"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 238.0,
+            "P": 253.0,
+            "K": 252.0,
+            "pH": 14.0,
+            "temperature": 25.6,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_218",
+        "saved_at": "2026-01-03T20:56:47.988054"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 157.0,
+            "P": 128.0,
+            "K": 128.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_219",
+        "saved_at": "2026-01-03T20:56:52.738097"
+    },
+    {
+        "predicted_crop": "coconut",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bud Rot"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 25.9,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_220",
+        "saved_at": "2026-01-03T20:56:57.493611"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 129.0,
+            "P": 255.0,
+            "K": 251.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_221",
+        "saved_at": "2026-01-03T20:57:02.248455"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 205.0,
+            "P": 252.0,
+            "K": 191.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_222",
+        "saved_at": "2026-01-03T20:57:07.000935"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 155.0,
+            "P": 128.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_223",
+        "saved_at": "2026-01-03T20:57:11.754435"
+    },
+    {
+        "predicted_crop": "coconut",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bud Rot"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 129.0,
+            "pH": 14.0,
+            "temperature": 25.6,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_224",
+        "saved_at": "2026-01-03T20:57:16.510136"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 129.0,
+            "P": 255.0,
+            "K": 207.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_225",
+        "saved_at": "2026-01-03T20:57:21.262035"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 252.0,
+            "P": 188.0,
+            "K": 159.0,
+            "pH": 14.0,
+            "temperature": 25.3,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_226",
+        "saved_at": "2026-01-03T20:57:26.008691"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 128.0,
+            "P": 128.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_227",
+        "saved_at": "2026-01-03T20:57:30.768058"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 129.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_228",
+        "saved_at": "2026-01-03T20:57:35.522353"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 255.0,
+            "P": 255.0,
+            "K": 239.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_229",
+        "saved_at": "2026-01-03T20:57:40.274999"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 253.0,
+            "P": 189.0,
+            "K": 158.0,
+            "pH": 14.0,
+            "temperature": 25.6,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_230",
+        "saved_at": "2026-01-03T20:57:45.035320"
+    },
+    {
+        "predicted_crop": "coconut",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bud Rot"
+        ],
+        "received_data": {
+            "N": 128.0,
+            "P": 131.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_231",
+        "saved_at": "2026-01-03T20:57:49.785480"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 129.0,
+            "K": 129.0,
+            "pH": 14.0,
+            "temperature": 25.3,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_232",
+        "saved_at": "2026-01-03T20:57:54.538926"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 255.0,
+            "P": 207.0,
+            "K": 252.0,
+            "pH": 14.0,
+            "temperature": 25.0,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_233",
+        "saved_at": "2026-01-03T20:57:59.297985"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 252.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.8,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_234",
+        "saved_at": "2026-01-03T20:58:04.053085"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_235",
+        "saved_at": "2026-01-03T20:58:08.805915"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.8,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_236",
+        "saved_at": "2026-01-03T20:58:13.558854"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_237",
+        "saved_at": "2026-01-03T20:58:18.313550"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.3,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_238",
+        "saved_at": "2026-01-03T20:58:23.068813"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_239",
+        "saved_at": "2026-01-03T20:58:27.819294"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.9,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_240",
+        "saved_at": "2026-01-03T20:58:32.575257"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_241",
+        "saved_at": "2026-01-03T20:58:37.329924"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.3,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_242",
+        "saved_at": "2026-01-03T20:58:42.083372"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_243",
+        "saved_at": "2026-01-03T20:58:46.834652"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.8,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_244",
+        "saved_at": "2026-01-03T20:58:51.592472"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_245",
+        "saved_at": "2026-01-03T20:58:56.345263"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_246",
+        "saved_at": "2026-01-03T20:59:01.094945"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_247",
+        "saved_at": "2026-01-03T20:59:05.858014"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_248",
+        "saved_at": "2026-01-03T20:59:10.611143"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_249",
+        "saved_at": "2026-01-03T20:59:15.365751"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.3,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_250",
+        "saved_at": "2026-01-03T20:59:20.120051"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.0,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_251",
+        "saved_at": "2026-01-03T20:59:24.876213"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_252",
+        "saved_at": "2026-01-03T20:59:29.629790"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_253",
+        "saved_at": "2026-01-03T20:59:34.384287"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_254",
+        "saved_at": "2026-01-03T20:59:39.139688"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.8,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_255",
+        "saved_at": "2026-01-03T20:59:43.898145"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.5,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_256",
+        "saved_at": "2026-01-03T20:59:48.650340"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_257",
+        "saved_at": "2026-01-03T20:59:53.408035"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.3,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_258",
+        "saved_at": "2026-01-03T20:59:58.161951"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_259",
+        "saved_at": "2026-01-03T21:00:02.919109"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.3,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_260",
+        "saved_at": "2026-01-03T21:00:07.672094"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_261",
+        "saved_at": "2026-01-03T21:00:12.427716"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_262",
+        "saved_at": "2026-01-03T21:00:17.183327"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.9,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_263",
+        "saved_at": "2026-01-03T21:00:21.934264"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.5,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_264",
+        "saved_at": "2026-01-03T21:00:26.689952"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.3,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_265",
+        "saved_at": "2026-01-03T21:00:31.443251"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.0,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_266",
+        "saved_at": "2026-01-03T21:00:36.195387"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.3,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_267",
+        "saved_at": "2026-01-03T21:00:40.954585"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.4,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_268",
+        "saved_at": "2026-01-03T21:00:45.707679"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.6,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_269",
+        "saved_at": "2026-01-03T21:00:50.467360"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.3,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_270",
+        "saved_at": "2026-01-03T21:00:55.222560"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_271",
+        "saved_at": "2026-01-03T21:00:59.973537"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.5,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_272",
+        "saved_at": "2026-01-03T21:01:04.733628"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.3,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_273",
+        "saved_at": "2026-01-03T21:01:09.486297"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.0,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_274",
+        "saved_at": "2026-01-03T21:01:14.241712"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.9,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_275",
+        "saved_at": "2026-01-03T21:01:18.996475"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_276",
+        "saved_at": "2026-01-03T21:01:23.743269"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_277",
+        "saved_at": "2026-01-03T21:01:28.501421"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.3,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_278",
+        "saved_at": "2026-01-03T21:01:33.262422"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_279",
+        "saved_at": "2026-01-03T21:01:38.016786"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.4,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_280",
+        "saved_at": "2026-01-03T21:01:42.766092"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.8,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_281",
+        "saved_at": "2026-01-03T21:01:47.525770"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_282",
+        "saved_at": "2026-01-03T21:01:52.281198"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.4,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_283",
+        "saved_at": "2026-01-03T21:01:57.035362"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.8,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_284",
+        "saved_at": "2026-01-03T21:02:01.788522"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_285",
+        "saved_at": "2026-01-03T21:02:06.541976"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.4,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_286",
+        "saved_at": "2026-01-03T21:02:11.301032"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_287",
+        "saved_at": "2026-01-03T21:02:16.055024"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.5,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_288",
+        "saved_at": "2026-01-03T21:02:20.811683"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_289",
+        "saved_at": "2026-01-03T21:02:25.566476"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_290",
+        "saved_at": "2026-01-03T21:02:30.325833"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.4,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_291",
+        "saved_at": "2026-01-03T21:02:35.079889"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_292",
+        "saved_at": "2026-01-03T21:02:39.835221"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_293",
+        "saved_at": "2026-01-03T21:02:44.589787"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_294",
+        "saved_at": "2026-01-03T21:02:49.342996"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 255.0,
+            "P": 158.0,
+            "K": 128.0,
+            "pH": 14.0,
+            "temperature": 25.8,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_295",
+        "saved_at": "2026-01-03T21:03:33.956939"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_296",
+        "saved_at": "2026-01-03T21:03:38.690009"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 129.0,
+            "P": 129.0,
+            "K": 255.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_297",
+        "saved_at": "2026-01-03T21:03:43.443413"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 207.0,
+            "P": 253.0,
+            "K": 252.0,
+            "pH": 14.0,
+            "temperature": 25.0,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_298",
+        "saved_at": "2026-01-03T21:03:48.197234"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 128.0,
+            "K": 128.0,
+            "pH": 14.0,
+            "temperature": 25.4,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_299",
+        "saved_at": "2026-01-03T21:03:52.953931"
+    },
+    {
+        "predicted_crop": "coconut",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bud Rot"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 25.8,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_300",
+        "saved_at": "2026-01-03T21:03:57.708021"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 129.0,
+            "P": 255.0,
+            "K": 223.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_301",
+        "saved_at": "2026-01-03T21:04:02.463796"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 239.0,
+            "P": 253.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_302",
+        "saved_at": "2026-01-03T21:04:07.219005"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 128.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_303",
+        "saved_at": "2026-01-03T21:04:11.975570"
+    },
+    {
+        "predicted_crop": "coconut",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bud Rot"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 129.0,
+            "pH": 14.0,
+            "temperature": 25.4,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_304",
+        "saved_at": "2026-01-03T21:04:16.729019"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 129.0,
+            "P": 255.0,
+            "K": 207.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_305",
+        "saved_at": "2026-01-03T21:04:21.485742"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 253.0,
+            "P": 252.0,
+            "K": 158.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_306",
+        "saved_at": "2026-01-03T21:04:26.241017"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 128.0,
+            "P": 128.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_307",
+        "saved_at": "2026-01-03T21:04:30.989955"
+    },
+    {
+        "predicted_crop": "coconut",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bud Rot"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 129.0,
+            "pH": 14.0,
+            "temperature": 25.9,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_308",
+        "saved_at": "2026-01-03T21:04:35.752971"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 255.0,
+            "P": 223.0,
+            "K": 239.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_309",
+        "saved_at": "2026-01-03T21:04:40.507750"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 253.0,
+            "P": 188.0,
+            "K": 158.0,
+            "pH": 14.0,
+            "temperature": 25.6,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_310",
+        "saved_at": "2026-01-03T21:04:45.264762"
+    },
+    {
+        "predicted_crop": "coconut",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bud Rot"
+        ],
+        "received_data": {
+            "N": 128.0,
+            "P": 131.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 25.8,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_311",
+        "saved_at": "2026-01-03T21:04:50.019580"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 129.0,
+            "K": 129.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_312",
+        "saved_at": "2026-01-03T21:04:54.776001"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 255.0,
+            "P": 207.0,
+            "K": 253.0,
+            "pH": 14.0,
+            "temperature": 25.6,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_313",
+        "saved_at": "2026-01-03T21:04:59.531254"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 252.0,
+            "P": 158.0,
+            "K": 128.0,
+            "pH": 14.0,
+            "temperature": 25.3,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_314",
+        "saved_at": "2026-01-03T21:05:04.286440"
+    },
+    {
+        "predicted_crop": "coconut",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bud Rot"
+        ],
+        "received_data": {
+            "N": 128.0,
+            "P": 131.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_315",
+        "saved_at": "2026-01-03T21:05:09.041818"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 129.0,
+            "K": 255.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_316",
+        "saved_at": "2026-01-03T21:05:13.797222"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 223.0,
+            "P": 239.0,
+            "K": 253.0,
+            "pH": 14.0,
+            "temperature": 25.3,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_317",
+        "saved_at": "2026-01-03T21:05:18.551978"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 188.0,
+            "P": 158.0,
+            "K": 128.0,
+            "pH": 14.0,
+            "temperature": 25.5,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_318",
+        "saved_at": "2026-01-03T21:05:23.306365"
+    },
+    {
+        "predicted_crop": "coconut",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bud Rot"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 25.6,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_319",
+        "saved_at": "2026-01-03T21:05:28.062850"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 129.0,
+            "P": 129.0,
+            "K": 255.0,
+            "pH": 14.0,
+            "temperature": 25.9,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_320",
+        "saved_at": "2026-01-03T21:05:32.819585"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 207.0,
+            "P": 253.0,
+            "K": 252.0,
+            "pH": 14.0,
+            "temperature": 25.3,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_321",
+        "saved_at": "2026-01-03T21:05:37.575293"
+    },
+    {
+        "predicted_crop": "potato",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Late Blight",
+            "Common Scab"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 128.0,
+            "K": 128.0,
+            "pH": 14.0,
+            "temperature": 25.5,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_322",
+        "saved_at": "2026-01-03T21:05:42.331420"
+    },
+    {
+        "predicted_crop": "coconut",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bud Rot"
+        ],
+        "received_data": {
+            "N": 131.0,
+            "P": 131.0,
+            "K": 131.0,
+            "pH": 14.0,
+            "temperature": 25.6,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_323",
+        "saved_at": "2026-01-03T21:05:47.083482"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 129.0,
+            "P": 255.0,
+            "K": 223.0,
+            "pH": 14.0,
+            "temperature": 25.9,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_324",
+        "saved_at": "2026-01-03T21:05:51.840449"
+    },
+    {
+        "predicted_crop": "sugarcane",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Red Rot",
+            "Sugarcane Smut"
+        ],
+        "received_data": {
+            "N": 239.0,
+            "P": 253.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_325",
+        "saved_at": "2026-01-03T21:05:56.593890"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.6,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_326",
+        "saved_at": "2026-01-03T21:06:01.349663"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.4,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_327",
+        "saved_at": "2026-01-03T21:06:06.104148"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.1,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_328",
+        "saved_at": "2026-01-03T21:06:10.860017"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.5,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_329",
+        "saved_at": "2026-01-03T21:06:15.617598"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.0,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_330",
+        "saved_at": "2026-01-03T21:06:20.371866"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.5,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_331",
+        "saved_at": "2026-01-03T21:06:25.118116"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.7,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_332",
+        "saved_at": "2026-01-03T21:06:29.881540"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.3,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_333",
+        "saved_at": "2026-01-03T21:06:34.639467"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.0,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_334",
+        "saved_at": "2026-01-03T21:06:39.394681"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_335",
+        "saved_at": "2026-01-03T21:06:44.150270"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_336",
+        "saved_at": "2026-01-03T21:06:48.906601"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_337",
+        "saved_at": "2026-01-03T21:06:53.660148"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_338",
+        "saved_at": "2026-01-03T21:06:58.418137"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.6,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_339",
+        "saved_at": "2026-01-03T21:07:03.172648"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_340",
+        "saved_at": "2026-01-03T21:07:07.928945"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.2,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_341",
+        "saved_at": "2026-01-03T21:07:12.681171"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.3,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_342",
+        "saved_at": "2026-01-03T21:07:17.438504"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.9,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_343",
+        "saved_at": "2026-01-03T21:07:22.193248"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.6,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_344",
+        "saved_at": "2026-01-03T21:07:26.950793"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.3,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_345",
+        "saved_at": "2026-01-03T21:07:31.706879"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.6,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_346",
+        "saved_at": "2026-01-03T21:07:36.463912"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.6,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_347",
+        "saved_at": "2026-01-03T21:07:41.216654"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 25.0,
+            "humidity": 58.0,
+            "rainfall": 0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "id": "pred_348",
+        "saved_at": "2026-01-03T21:07:45.966485"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 166.8,
+            "P": 169.7,
+            "K": 169.6,
+            "pH": 14.0,
+            "temperature": 25.45,
+            "humidity": 58.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_349",
+        "saved_at": "2026-01-03T21:12:12.276497"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 191.5,
+            "P": 180.2,
+            "K": 166.3,
+            "pH": 14.0,
+            "temperature": 25.49,
+            "humidity": 58.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_350",
+        "saved_at": "2026-01-03T21:12:59.835512"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 155.6,
+            "P": 168.4,
+            "K": 188.7,
+            "pH": 14.0,
+            "temperature": 25.47,
+            "humidity": 58.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_351",
+        "saved_at": "2026-01-03T21:13:47.395048"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 166.1,
+            "P": 167.5,
+            "K": 188.1,
+            "pH": 14.0,
+            "temperature": 25.42,
+            "humidity": 58.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_352",
+        "saved_at": "2026-01-03T21:14:34.946460"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.9,
+            "pH": 14.0,
+            "temperature": 25.35,
+            "humidity": 57.9,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_353",
+        "saved_at": "2026-01-03T21:15:22.508421"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 26.48,
+            "humidity": 57.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_354",
+        "saved_at": "2026-01-03T21:16:10.063739"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 26.57,
+            "humidity": 57.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_355",
+        "saved_at": "2026-01-03T21:16:57.618104"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 189.0,
+            "pH": 14.0,
+            "temperature": 26.49,
+            "humidity": 57.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_356",
+        "saved_at": "2026-01-03T21:17:45.179854"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 166.8,
+            "P": 169.7,
+            "K": 169.6,
+            "pH": 14.0,
+            "temperature": 26.32,
+            "humidity": 57.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_357",
+        "saved_at": "2026-01-03T21:23:02.658120"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 191.5,
+            "P": 180.2,
+            "K": 166.3,
+            "pH": 14.0,
+            "temperature": 26.45,
+            "humidity": 57.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_358",
+        "saved_at": "2026-01-03T21:23:50.213336"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 155.5,
+            "P": 168.4,
+            "K": 188.7,
+            "pH": 14.0,
+            "temperature": 26.36,
+            "humidity": 57.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_359",
+        "saved_at": "2026-01-03T21:24:37.769045"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 166.1,
+            "P": 167.5,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 26.39,
+            "humidity": 57.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_360",
+        "saved_at": "2026-01-03T21:25:25.328235"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 26.34,
+            "humidity": 57.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_361",
+        "saved_at": "2026-01-03T21:26:12.888696"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 26.39,
+            "humidity": 57.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_362",
+        "saved_at": "2026-01-03T21:27:00.447784"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 26.46,
+            "humidity": 57.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_363",
+        "saved_at": "2026-01-03T21:27:48.005713"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 158.0,
+            "P": 158.0,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 26.45,
+            "humidity": 57.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56,
+            "state": "Karnataka"
+        },
+        "id": "pred_364",
+        "saved_at": "2026-01-03T21:28:35.565857"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 176.0,
+            "P": 159.2,
+            "K": 178.8,
+            "pH": 14.0,
+            "temperature": 26.36,
+            "humidity": 57.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "timestamp": 1767456346.9881978,
+        "id": "pred_365",
+        "saved_at": "2026-01-03T21:35:46.989227"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 166.4,
+            "P": 191.5,
+            "K": 180.2,
+            "pH": 14.0,
+            "temperature": 26.39,
+            "humidity": 57.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "timestamp": 1767456380.28546,
+        "id": "pred_366",
+        "saved_at": "2026-01-03T21:36:20.288255"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 179.4,
+            "P": 177.5,
+            "K": 166.4,
+            "pH": 14.0,
+            "temperature": 26.49,
+            "humidity": 57.2,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "timestamp": 1767456413.57345,
+        "id": "pred_367",
+        "saved_at": "2026-01-03T21:36:53.575740"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 169.6,
+            "P": 154.2,
+            "K": 179.4,
+            "pH": 14.0,
+            "temperature": 26.5,
+            "humidity": 57.9,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "timestamp": 1767456446.86016,
+        "id": "pred_368",
+        "saved_at": "2026-01-03T21:37:26.863664"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 162.8,
+            "P": 175.4,
+            "K": 181.2,
+            "pH": 14.0,
+            "temperature": 26.23,
+            "humidity": 58.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "timestamp": 1767456480.154421,
+        "id": "pred_369",
+        "saved_at": "2026-01-03T21:38:00.156745"
+    },
+    {
+        "predicted_crop": "banana",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Panama Disease",
+            "Sigatoka Leaf Spot"
+        ],
+        "received_data": {
+            "N": 166.1,
+            "P": 167.5,
+            "K": 188.0,
+            "pH": 14.0,
+            "temperature": 26.34,
+            "humidity": 58.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "timestamp": 1767456513.446591,
+        "id": "pred_370",
+        "saved_at": "2026-01-03T21:38:33.448988"
+    },
+    {
+        "predicted_crop": "cotton",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bollworm",
+            "Wilt"
+        ],
+        "received_data": {
+            "N": 0.0,
+            "P": 0.0,
+            "K": 0.0,
+            "pH": 14.0,
+            "temperature": 25.0,
+            "humidity": 50.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "timestamp": 1767456783.693695,
+        "id": "pred_371",
+        "saved_at": "2026-01-03T21:43:03.695735"
+    },
+    {
+        "predicted_crop": "cotton",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bollworm",
+            "Wilt"
+        ],
+        "received_data": {
+            "N": 0.0,
+            "P": 0.0,
+            "K": 0.0,
+            "pH": 14.0,
+            "temperature": 25.0,
+            "humidity": 50.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "timestamp": 1767456813.74802,
+        "id": "pred_372",
+        "saved_at": "2026-01-03T21:43:33.750221"
+    },
+    {
+        "predicted_crop": "cotton",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bollworm",
+            "Wilt"
+        ],
+        "received_data": {
+            "N": 0.0,
+            "P": 0.0,
+            "K": 0.0,
+            "pH": 14.0,
+            "temperature": 25.0,
+            "humidity": 50.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "timestamp": 1767456843.7942479,
+        "id": "pred_373",
+        "saved_at": "2026-01-03T21:44:03.796398"
+    },
+    {
+        "predicted_crop": "cotton",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bollworm",
+            "Wilt"
+        ],
+        "received_data": {
+            "N": 0.0,
+            "P": 0.0,
+            "K": 0.0,
+            "pH": 14.0,
+            "temperature": 25.0,
+            "humidity": 50.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "timestamp": 1767456873.836428,
+        "id": "pred_374",
+        "saved_at": "2026-01-03T21:44:33.838891"
+    },
+    {
+        "predicted_crop": "cotton",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bollworm",
+            "Wilt"
+        ],
+        "received_data": {
+            "N": 0.0,
+            "P": 0.0,
+            "K": 0.0,
+            "pH": 14.0,
+            "temperature": 25.0,
+            "humidity": 50.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "timestamp": 1767456903.89236,
+        "id": "pred_375",
+        "saved_at": "2026-01-03T21:45:03.894688"
+    },
+    {
+        "predicted_crop": "cotton",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bollworm",
+            "Wilt"
+        ],
+        "received_data": {
+            "N": 0.0,
+            "P": 0.0,
+            "K": 0.0,
+            "pH": 14.0,
+            "temperature": 25.0,
+            "humidity": 50.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "timestamp": 1767456933.945581,
+        "id": "pred_376",
+        "saved_at": "2026-01-03T21:45:33.947873"
+    },
+    {
+        "predicted_crop": "cotton",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bollworm",
+            "Wilt"
+        ],
+        "received_data": {
+            "N": 0.0,
+            "P": 0.0,
+            "K": 0.0,
+            "pH": 14.0,
+            "temperature": 25.0,
+            "humidity": 50.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "timestamp": 1767456963.996672,
+        "id": "pred_377",
+        "saved_at": "2026-01-03T21:46:03.998969"
+    },
+    {
+        "predicted_crop": "cotton",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bollworm",
+            "Wilt"
+        ],
+        "received_data": {
+            "N": 0.0,
+            "P": 0.0,
+            "K": 0.0,
+            "pH": 14.0,
+            "temperature": 25.0,
+            "humidity": 50.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "timestamp": 1767456994.038004,
+        "id": "pred_378",
+        "saved_at": "2026-01-03T21:46:34.040244"
+    },
+    {
+        "predicted_crop": "cotton",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Bollworm",
+            "Wilt"
+        ],
+        "received_data": {
+            "N": 0.0,
+            "P": 0.0,
+            "K": 0.0,
+            "pH": 14.0,
+            "temperature": 25.0,
+            "humidity": 50.0,
+            "rainfall": 0.0,
+            "latitude": 13.17,
+            "longitude": 77.56
+        },
+        "state": "Karnataka",
+        "timestamp": 1767457520.479968,
+        "id": "pred_379",
+        "saved_at": "2026-01-03T21:55:20.481110"
+    },
+    {
+        "predicted_crop": "maize",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Fall Armyworm",
+            "Leaf Blight"
+        ],
+        "received_data": {
+            "N": 92.0,
+            "P": 48.0,
+            "K": 65.0,
+            "pH": 6.5,
+            "temperature": 29.0,
+            "humidity": 72.0,
+            "rainfall": 180.0,
+            "latitude": 0.0,
+            "longitude": 0.0
+        },
+        "state": "Unknown",
+        "timestamp": 1767468295.93732,
+        "id": "pred_380",
+        "saved_at": "2026-01-04T00:54:55.940024"
+    },
+    {
+        "predicted_crop": "maize",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Fall Armyworm",
+            "Leaf Blight"
+        ],
+        "received_data": {
+            "N": 90.0,
+            "P": 40.0,
+            "K": 40.0,
+            "pH": 6.5,
+            "temperature": 27.0,
+            "humidity": 65.0,
+            "rainfall": 120.0
+        },
+        "state": "Manual",
+        "timestamp": 1767504966.30828,
+        "id": "pred_381",
+        "saved_at": "2026-01-04T11:06:06.310837"
+    },
+    {
+        "predicted_crop": "maize",
+        "fertilizer_recommendation": "Normal Fertilizers Needed",
+        "disease_alerts": [
+            "Fall Armyworm",
+            "Leaf Blight"
+        ],
+        "received_data": {
+            "N": 90.0,
+            "P": 40.0,
+            "K": 40.0,
+            "pH": 6.5,
+            "temperature": 27.0,
+            "humidity": 65.0,
+            "rainfall": 120.0
+        },
+        "state": "Manual",
+        "timestamp": 1767505044.846708,
+        "id": "pred_382",
+        "saved_at": "2026-01-04T11:07:24.851851"
     }
 ]

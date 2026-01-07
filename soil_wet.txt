@@ -1,0 +1,110 @@
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: banana
+🎯 Confidence: 44.99 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Panama Disease', 'Sigatoka Leaf Spot']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: banana
+🎯 Confidence: 86.41 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Panama Disease', 'Sigatoka Leaf Spot']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: banana
+🎯 Confidence: 49.08 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Panama Disease', 'Sigatoka Leaf Spot']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: banana
+🎯 Confidence: 48.74 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Panama Disease', 'Sigatoka Leaf Spot']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: banana
+🎯 Confidence: 48.74 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Panama Disease', 'Sigatoka Leaf Spot']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: banana
+🎯 Confidence: 49.08 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Panama Disease', 'Sigatoka Leaf Spot']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: banana
+🎯 Confidence: 48.74 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Panama Disease', 'Sigatoka Leaf Spot']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: banana
+🎯 Confidence: 48.74 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Panama Disease', 'Sigatoka Leaf Spot']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: banana
+🎯 Confidence: 49.08 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Panama Disease', 'Sigatoka Leaf Spot']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: banana
+🎯 Confidence: 48.74 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Panama Disease', 'Sigatoka Leaf Spot']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: banana
+🎯 Confidence: 48.74 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Panama Disease', 'Sigatoka Leaf Spot']
+====================================
+

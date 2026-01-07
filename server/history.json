@@ -1,0 +1,411 @@
+[
+  {
+    "crop": "maize",
+    "fertilizer": "Normal Fertilizers Needed",
+    "state": "Tamil Nadu",
+    "diseases": [
+      "Fall Armyworm",
+      "Leaf Blight"
+    ],
+    "inputs": {
+      "N": 85.0,
+      "P": 42.0,
+      "K": 55.0,
+      "pH": 6.4,
+      "temperature": 28.0,
+      "humidity": 71.0,
+      "rainfall": 160.0,
+      "latitude": 13.17,
+      "longitude": 77.56
+    },
+    "field_type": "Arduino Field",
+    "timestamp": 1767772613.969793
+  },
+  {
+    "crop": "pulses",
+    "fertilizer": "Normal Fertilizers Needed",
+    "diseases": [
+      "Yellow Mosaic Virus"
+    ],
+    "inputs": {
+      "N": 45.0,
+      "P": 20.0,
+      "K": 40.0,
+      "pH": 6.8,
+      "temperature": 27.0,
+      "humidity": 70.0,
+      "rainfall": 100.0
+    },
+    "field_type": "Arduino Field",
+    "timestamp": 1767768142.050621
+  },
+  {
+    "crop": "pulses",
+    "fertilizer": "Normal Fertilizers Needed",
+    "diseases": [
+      "Yellow Mosaic Virus"
+    ],
+    "inputs": {
+      "N": 45.0,
+      "P": 20.0,
+      "K": 40.0,
+      "pH": 6.8,
+      "temperature": 27.0,
+      "humidity": 70.0,
+      "rainfall": 100.0
+    },
+    "field_type": "Arduino Field",
+    "timestamp": 1767767674.858149
+  },
+  {
+    "crop": "maize",
+    "fertilizer": "Normal Fertilizers Needed",
+    "diseases": [
+      "Fall Armyworm",
+      "Leaf Blight"
+    ],
+    "inputs": {
+      "N": 90.0,
+      "P": 40.0,
+      "K": 40.0,
+      "pH": 6.5,
+      "temperature": 27.0,
+      "humidity": 72.0,
+      "rainfall": 180.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767767560.223406
+  },
+  {
+    "crop": "maize",
+    "fertilizer": "Normal Fertilizers Needed",
+    "diseases": [
+      "Fall Armyworm",
+      "Leaf Blight"
+    ],
+    "inputs": {
+      "N": 90.0,
+      "P": 40.0,
+      "K": 40.0,
+      "pH": 6.5,
+      "temperature": 27.0,
+      "humidity": 72.0,
+      "rainfall": 180.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767767479.7680378
+  },
+  {
+    "crop": "ERROR",
+    "fertilizer": "ERROR",
+    "diseases": [],
+    "inputs": {
+      "N": 90.0,
+      "P": 40.0,
+      "K": 40.0,
+      "pH": 6.5,
+      "temperature": 27.0,
+      "humidity": 72.0,
+      "rainfall": 180.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767766996.907347
+  },
+  {
+    "crop": "ERROR",
+    "fertilizer": "ERROR",
+    "diseases": [],
+    "inputs": {
+      "N": 90.0,
+      "P": 40.0,
+      "K": 40.0,
+      "pH": 6.5,
+      "temperature": 27.0,
+      "humidity": 72.0,
+      "rainfall": 180.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767766824.047446
+  },
+  {
+    "crop": "ERROR",
+    "fertilizer": "ERROR",
+    "diseases": [],
+    "inputs": {
+      "N": 90.0,
+      "P": 40.0,
+      "K": 40.0,
+      "pH": 6.5,
+      "temperature": 27.0,
+      "humidity": 72.0,
+      "rainfall": 180.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767766689.954602
+  },
+  {
+    "crop": "ERROR",
+    "fertilizer": "ERROR",
+    "diseases": [],
+    "inputs": {
+      "N": 90.0,
+      "P": 40.0,
+      "K": 40.0,
+      "pH": 6.5,
+      "temperature": 27.0,
+      "humidity": 72.0,
+      "rainfall": 180.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767766578.7027352
+  },
+  {
+    "crop": "ERROR",
+    "fertilizer": "ERROR",
+    "diseases": [],
+    "inputs": {
+      "N": 90.0,
+      "P": 40.0,
+      "K": 40.0,
+      "pH": 6.5,
+      "temperature": 27.0,
+      "humidity": 72.0,
+      "rainfall": 180.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767766145.188086
+  },
+  {
+    "crop": "ERROR",
+    "fertilizer": "ERROR",
+    "diseases": [],
+    "inputs": {
+      "N": 90.0,
+      "P": 40.0,
+      "K": 40.0,
+      "pH": 6.5,
+      "temperature": 27.0,
+      "humidity": 72.0,
+      "rainfall": 180.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767766085.599584
+  },
+  {
+    "crop": "ERROR",
+    "fertilizer": "ERROR",
+    "diseases": [],
+    "inputs": {
+      "N": 90.0,
+      "P": 40.0,
+      "K": 40.0,
+      "pH": 6.5,
+      "temperature": 27.0,
+      "humidity": 72.0,
+      "rainfall": 180.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767765849.197201
+  },
+  {
+    "crop": "ERROR",
+    "fertilizer": "ERROR",
+    "diseases": [],
+    "inputs": {
+      "N": 90.0,
+      "P": 40.0,
+      "K": 40.0,
+      "pH": 6.5,
+      "temperature": 27.0,
+      "humidity": 72.0,
+      "rainfall": 180.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767765793.6183062
+  },
+  {
+    "crop": "ERROR",
+    "fertilizer": "ERROR",
+    "diseases": [],
+    "inputs": {
+      "N": 90.0,
+      "P": 40.0,
+      "K": 40.0,
+      "pH": 6.5,
+      "temperature": 27.0,
+      "humidity": 72.0,
+      "rainfall": 180.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767765321.961185
+  },
+  {
+    "crop": "ERROR",
+    "fertilizer": "ERROR",
+    "diseases": [],
+    "inputs": {
+      "N": 90.0,
+      "P": 40.0,
+      "K": 40.0,
+      "pH": 6.5,
+      "temperature": 27.0,
+      "humidity": 72.0,
+      "rainfall": 180.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767765320.937106
+  },
+  {
+    "crop": "mulberry",
+    "fertilizer": "Normal Fertilizers Needed",
+    "diseases": [
+      "Powdery Mildew"
+    ],
+    "inputs": {
+      "N": 27.6,
+      "P": 4.1,
+      "K": 112.6,
+      "pH": 14.0,
+      "temperature": 21.6,
+      "humidity": 72.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767518105.135787
+  },
+  {
+    "crop": "mulberry",
+    "fertilizer": "Normal Fertilizers Needed",
+    "diseases": [
+      "Powdery Mildew"
+    ],
+    "inputs": {
+      "N": 27.6,
+      "P": 4.1,
+      "K": 112.6,
+      "pH": 14.0,
+      "temperature": 21.6,
+      "humidity": 72.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767518104.406519
+  },
+  {
+    "crop": "mulberry",
+    "fertilizer": "Normal Fertilizers Needed",
+    "diseases": [
+      "Powdery Mildew"
+    ],
+    "inputs": {
+      "N": 27.6,
+      "P": 4.1,
+      "K": 112.6,
+      "pH": 14.0,
+      "temperature": 21.6,
+      "humidity": 72.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767518103.9189289
+  },
+  {
+    "crop": "mulberry",
+    "fertilizer": "Normal Fertilizers Needed",
+    "diseases": [
+      "Powdery Mildew"
+    ],
+    "inputs": {
+      "N": 27.6,
+      "P": 4.1,
+      "K": 112.6,
+      "pH": 14.0,
+      "temperature": 21.6,
+      "humidity": 72.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767518103.4848409
+  },
+  {
+    "crop": "mulberry",
+    "fertilizer": "Normal Fertilizers Needed",
+    "diseases": [
+      "Powdery Mildew"
+    ],
+    "inputs": {
+      "N": 27.6,
+      "P": 4.1,
+      "K": 112.6,
+      "pH": 14.0,
+      "temperature": 21.6,
+      "humidity": 72.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767518103.037075
+  },
+  {
+    "crop": "mulberry",
+    "fertilizer": "Normal Fertilizers Needed",
+    "diseases": [
+      "Powdery Mildew"
+    ],
+    "inputs": {
+      "N": 27.6,
+      "P": 4.1,
+      "K": 112.6,
+      "pH": 14.0,
+      "temperature": 21.6,
+      "humidity": 72.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767518102.097434
+  },
+  {
+    "crop": "mulberry",
+    "fertilizer": "Normal Fertilizers Needed",
+    "diseases": [
+      "Powdery Mildew"
+    ],
+    "inputs": {
+      "N": 32.4,
+      "P": 6.3,
+      "K": 119.7,
+      "pH": 6.5,
+      "temperature": 26.5,
+      "humidity": 71.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767517786.292772
+  },
+  {
+    "crop": "mulberry",
+    "fertilizer": "Normal Fertilizers Needed",
+    "diseases": [
+      "Powdery Mildew"
+    ],
+    "inputs": {
+      "N": 32.0,
+      "P": 6.0,
+      "K": 119.0,
+      "pH": 6.5,
+      "temperature": 26.0,
+      "humidity": 71.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1767517758.217716
+  },
+  {
+    "crop": "maize",
+    "fertilizer": "Normal Fertilizers Needed",
+    "diseases": [
+      "Fall Armyworm",
+      "Leaf Blight"
+    ],
+    "timestamp": 1767508312.7078242
+  }
+]

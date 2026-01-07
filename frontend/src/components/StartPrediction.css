@@ -1,0 +1,46 @@
+.paper-frame{
+  display:flex;
+  justify-content:center;
+}
+
+.glass-card{
+  width:720px;
+  padding:26px;
+  border-radius:26px;
+  background:rgba(255,255,255,0.96);
+  box-shadow:0 35px 70px rgba(0,0,0,.18);
+}
+
+.title{
+  text-align:center;
+  margin-bottom:18px;
+}
+
+/* Inputs */
+.manual-grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:14px;
+  margin-bottom:18px;
+}
+
+.manual-grid input{
+  padding:14px;
+  border-radius:14px;
+  border:1px solid #ddd;
+  font-size:14px;
+}
+
+/* Button */
+.predict-btn{
+  width:100%;
+  border:none;
+  padding:14px;
+  border-radius:22px;
+  font-size:16px;
+  font-weight:600;
+  background:linear-gradient(135deg,#00c853,#64dd17);
+  color:white;
+  cursor:pointer;
+  box-shadow:0 12px 25px rgba(0,200,83,.4);
+}

@@ -1,100 +1,76 @@
-// src/App.js
-import React, { useState } from "react";
-import "./App.css";
-
-import LiveFeed from "./components/LiveFeed.jsx";
+import React, { useState, useEffect, useCallback } from "react";
+import LiveFeed from "./components/LiveFeed";
 import StartPrediction from "./components/StartPrediction";
 import History from "./components/History";
+import "./components/LiveFeed.css";
 
-const TABS = {
-  LIVE: "live",
-  MANUAL: "manual",
-  HISTORY: "history",
-};
+export default function App() {
+  const [tab, setTab] = useState("live");
 
-function App() {
-  const [activeTab, setActiveTab] = useState(TABS.LIVE);
+  const [manualForm, setManualForm] = useState({});
+  const [manualResult, setManualResult] = useState({});
+  const [history, setHistory] = useState([]);
+
+  // 🔒 Persistent Live State
+  const [liveData, setLiveData] = useState({});
+  const [livePred, setLivePred] = useState({});
+
+  useEffect(() => {
+    fetch("http://127.0.0.1:8000/history")
+      .then((r) => r.json())
+      .then(setHistory);
+  }, []);
+
+  const handleStablePrediction = useCallback((p) => {
+    setHistory((h) => [p, ...h]);
+  }, []);
 
   return (
     <div className="app-root">
-      {/* ───────────── HEADER ───────────── */}
-      <header className="app-header">
-        <div>
-          <h1>
-            Real-Time Offline AI System for Sensor-Integrated Precision
-            Agriculture
-          </h1>
-          <p>
-            Real-time crop, fertilizer, and disease-risk advisory from live
-            Arduino sensor data
-          </p>
+      <div className="app-header">
+        <h1 className="main-title">
+          <span className="title-line1">
+            Real-Time Offline Edge AI Framework
+          </span>
+          <span className="title-line2">
+            for Sensor Integrated Precision Agriculture
+          </span>
+        </h1>
+
+        <div className="nav-tabs">
+          {["live", "manual", "history"].map((t) => (
+            <button
+              key={t}
+              className={`nav-tab ${tab === t ? "active" : ""}`}
+              onClick={() => setTab(t)}
+            >
+              {t.charAt(0).toUpperCase() + t.slice(1)}
+            </button>
+          ))}
         </div>
-      </header>
-
-      {/* ───────────── TABS ───────────── */}
-      <div className="nav-tabs">
-        <button
-          type="button"
-          className={`nav-tab ${activeTab === TABS.LIVE ? "active" : ""}`}
-          onClick={() => setActiveTab(TABS.LIVE)}
-        >
-          Live Arduino
-        </button>
-
-        <button
-          type="button"
-          className={`nav-tab ${activeTab === TABS.MANUAL ? "active" : ""}`}
-          onClick={() => setActiveTab(TABS.MANUAL)}
-        >
-          Manual Input
-        </button>
-
-        <button
-          type="button"
-          className={`nav-tab ${activeTab === TABS.HISTORY ? "active" : ""}`}
-          onClick={() => setActiveTab(TABS.HISTORY)}
-        >
-          History
-        </button>
       </div>
 
-      {/* ───────────── MAIN CONTENT ───────────── */}
-      <main className="app-main">
-        {/* ---- LIVE TAB ---- */}
-        <div
-          className={
-            activeTab === TABS.LIVE
-              ? "tab-panel tab-panel-active"
-              : "tab-panel tab-panel-hidden"
-          }
-        >
-          <LiveFeed />
-        </div>
+      <div className="dashboard-wrapper">
+        {tab === "live" && (
+          <LiveFeed
+            data={liveData}
+            setData={setLiveData}
+            pred={livePred}
+            setPred={setLivePred}
+          />
+        )}
 
-        {/* ---- MANUAL TAB ---- */}
-        <div
-          className={
-            activeTab === TABS.MANUAL
-              ? "tab-panel tab-panel-active"
-              : "tab-panel tab-panel-hidden"
-          }
-        >
-          <StartPrediction />
-        </div>
+        {tab === "manual" && (
+          <StartPrediction
+            form={manualForm}
+            setForm={setManualForm}
+            result={manualResult}
+            setResult={setManualResult}
+          />
+        )}
 
-        {/* ---- HISTORY TAB ---- */}
-        <div
-          className={
-            activeTab === TABS.HISTORY
-              ? "tab-panel tab-panel-active"
-              : "tab-panel tab-panel-hidden"
-          }
-        >
-          <History />
-        </div>
-      </main>
+        {tab === "history" && <History history={history} />}
+      </div>
     </div>
   );
 }
-
-export default App;

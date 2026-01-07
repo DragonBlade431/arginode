@@ -1,0 +1,139 @@
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: potato
+🎯 Confidence: 26.3 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Late Blight', 'Common Scab']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: potato
+🎯 Confidence: 26.3 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Late Blight', 'Common Scab']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: potato
+🎯 Confidence: 26.3 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Late Blight', 'Common Scab']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: potato
+🎯 Confidence: 26.3 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Late Blight', 'Common Scab']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: potato
+🎯 Confidence: 26.3 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Late Blight', 'Common Scab']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: potato
+🎯 Confidence: 26.3 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Late Blight', 'Common Scab']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: potato
+🎯 Confidence: 26.3 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Late Blight', 'Common Scab']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: potato
+🎯 Confidence: 26.3 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Late Blight', 'Common Scab']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: potato
+🎯 Confidence: 26.3 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Late Blight', 'Common Scab']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: potato
+🎯 Confidence: 26.3 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Late Blight', 'Common Scab']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: potato
+🎯 Confidence: 26.3 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Late Blight', 'Common Scab']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: potato
+🎯 Confidence: 26.3 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Late Blight', 'Common Scab']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: potato
+🎯 Confidence: 26.3 %
+💊 Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Late Blight', 'Common Scab']
+====================================
+
+⚠️ Sensor noise auto-recovered
+/opt/anaconda3/lib/python3.13/site-packages/sklearn/utils/validation.py:2739: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+  warnings.warn(
+====================================
+🌾 Crop: potato
+🎯 Confidence: 26.3 %
+�� Fertilizer: Normal Fertilizers Needed
+⚠️ Diseases: ['Late Blight', 'Common Scab']
+====================================

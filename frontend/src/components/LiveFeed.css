@@ -1,0 +1,109 @@
+/* ================= SENSOR TILES ================= */
+
+.sensor-box{
+  background:#f6f1e9;
+  border-radius:22px;
+  padding:24px 20px;
+  text-align:center;
+}
+
+/* Tile label (N, P, K, TEMP, etc.) */
+.sensor-title,
+.sensor-box span{
+  font-size:18px;
+  font-weight:800;
+  letter-spacing:1.6px;
+  text-transform:uppercase;
+  color:#1f2933;
+  margin-bottom:8px;
+  display:block;
+}
+
+/* Value text */
+.sensor-value{
+  font-size:22px;
+  font-weight:700;
+  color:#1f2933;
+}
+
+/* Unit */
+.sensor-unit{
+  font-size:13px;
+  opacity:.6;
+  margin-top:2px;
+}
+
+/* ================= MANUAL INPUT STYLE ================= */
+
+.sensor-box.editable input {
+  width: 100%;
+  border: none;
+  background: transparent;
+  outline: none;
+  font-size: 22px;
+  font-weight: 700;
+  color: #1f2933;
+  text-align: center;
+}
+
+/* ================= STACKED LIVE STYLE ================= */
+
+.sensor-box.stacked{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  gap:6px;
+}
+
+/* ================= FULL WIDTH BUTTON ================= */
+
+.predict-btn-full{
+  margin-top:30px;
+  width:100%;
+  padding:18px;
+  border:none;
+  border-radius:999px;
+  background:linear-gradient(135deg,#00c853,#64dd17);
+  color:white;
+  font-size:18px;
+  font-weight:700;
+  cursor:pointer;
+}
+
+.source-badge {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  padding: 4px 12px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.source-badge.live {
+  background: #d1fae5;
+  color: #065f46;
+}
+
+.source-badge.manual {
+  background: #dbeafe;
+  color: #1e3a8a;
+}
+
+.field-badge{
+  padding:4px 12px;
+  border-radius:999px;
+  font-size:12px;
+  font-weight:600;
+}
+
+.field-badge.manual{
+  background:#dcfce7;
+  color:#166534;
+}
+
+.field-badge.arduino{
+  background:#e0f2fe;
+  color:#0369a1;
+}
