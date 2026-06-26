@@ -7,13 +7,13 @@ import "./components/LiveFeed.css";
 export default function App() {
   const [tab, setTab] = useState("live");
 
-  const [manualForm, setManualForm] = useState({});
-  const [manualResult, setManualResult] = useState({});
+  const [manualForm, setManualForm] = useState({ latitude: 13.165, longitude: 77.514 });
+  const [manualResult, setManualResult] = useState({ state: "Karnataka (Detected)" });
   const [history, setHistory] = useState([]);
 
   // 🔒 Persistent Live State
   const [liveData, setLiveData] = useState({});
-  const [livePred, setLivePred] = useState({});
+  const [livePred, setLivePred] = useState({ latitude: 13.165, longitude: 77.514, state: "Karnataka (Detected)" });
 
   useEffect(() => {
     fetch("http://127.0.0.1:8000/history")
@@ -29,11 +29,11 @@ export default function App() {
     <div className="app-root">
       <div className="app-header">
         <h1 className="main-title">
-          <span className="title-line1">
+          <span className="title-line1" style={{ fontSize: '28px', textTransform: 'none' }}>
             Real-Time Offline Edge AI Framework
           </span>
           <span className="title-line2">
-            for Sensor Integrated Precision Agriculture
+            For Sensor Integrated Precision Agriculture
           </span>
         </h1>
 

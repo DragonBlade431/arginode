@@ -1,5 +1,628 @@
 [
   {
+    "crop": "pulses",
+    "fertilizer": "Urea",
+    "state": "Karnataka",
+    "diseases": [
+      "Yellow Mosaic Virus"
+    ],
+    "inputs": {
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 7.0,
+      "temperature": 25.0,
+      "humidity": 50.0,
+      "rainfall": 0.0,
+      "latitude": 13.165,
+      "longitude": 77.514
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778048413.8587523
+  },
+  {
+    "crop": "pulses",
+    "fertilizer": "Urea",
+    "state": "Karnataka",
+    "diseases": [
+      "Yellow Mosaic Virus"
+    ],
+    "inputs": {
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 7.0,
+      "temperature": 25.0,
+      "humidity": 50.0,
+      "rainfall": 0.0,
+      "latitude": 13.165,
+      "longitude": 77.514
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778048175.2951005
+  },
+  {
+    "crop": "pulses",
+    "fertilizer": "Urea",
+    "state": "Karnataka",
+    "diseases": [
+      "Yellow Mosaic Virus"
+    ],
+    "inputs": {
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 7.0,
+      "temperature": 25.0,
+      "humidity": 50.0,
+      "rainfall": 0.0,
+      "latitude": 13.165,
+      "longitude": 77.514
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778010306.5897362
+  },
+  {
+    "crop": "pulses",
+    "fertilizer": "Urea",
+    "state": "Tamil Nadu",
+    "diseases": [
+      "Yellow Mosaic Virus"
+    ],
+    "inputs": {
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 7.0,
+      "temperature": 25.0,
+      "humidity": 50.0,
+      "rainfall": 0.0,
+      "latitude": 13.165,
+      "longitude": 77.514
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778010192.7547204
+  },
+  {
+    "crop": "pulses",
+    "fertilizer": "Urea",
+    "state": "Tamil Nadu",
+    "diseases": [
+      "Yellow Mosaic Virus"
+    ],
+    "inputs": {
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 7.0,
+      "temperature": 25.0,
+      "humidity": 50.0,
+      "rainfall": 0.0,
+      "latitude": 13.165,
+      "longitude": 77.514
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778010005.980224
+  },
+  {
+    "crop": "wheat",
+    "fertilizer": "Urea",
+    "state": "India",
+    "diseases": [
+      "Rust",
+      "Loose Smut"
+    ],
+    "inputs": {
+      "latitude": 13.165,
+      "longitude": 77.514,
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 0.0,
+      "temperature": 0.0,
+      "humidity": 0.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778009861.3989205
+  },
+  {
+    "crop": "wheat",
+    "fertilizer": "Normal Fertilizers Needed",
+    "state": "India",
+    "diseases": [
+      "Rust",
+      "Loose Smut"
+    ],
+    "inputs": {
+      "latitude": 13.165,
+      "longitude": 77.514,
+      "N": 98.0,
+      "P": 45.0,
+      "K": 37.0,
+      "pH": 6.44,
+      "rainfall": 1426.0,
+      "temperature": 24.5,
+      "humidity": 68.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778009751.4663455
+  },
+  {
+    "crop": "wheat",
+    "fertilizer": "Normal Fertilizers Needed",
+    "state": "India",
+    "diseases": [
+      "Rust",
+      "Loose Smut"
+    ],
+    "inputs": {
+      "latitude": 13.165,
+      "longitude": 77.514,
+      "N": 98.0,
+      "P": 45.0,
+      "K": 37.0,
+      "pH": 6.44,
+      "rainfall": 1426.0,
+      "temperature": 24.5,
+      "humidity": 68.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778009751.1920795
+  },
+  {
+    "crop": "wheat",
+    "fertilizer": "Normal Fertilizers Needed",
+    "state": "India",
+    "diseases": [
+      "Rust",
+      "Loose Smut"
+    ],
+    "inputs": {
+      "latitude": 13.165,
+      "longitude": 77.514,
+      "N": 98.0,
+      "P": 45.0,
+      "K": 37.0,
+      "pH": 6.44,
+      "rainfall": 1426.0,
+      "temperature": 24.5,
+      "humidity": 68.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778009749.8028123
+  },
+  {
+    "crop": "wheat",
+    "fertilizer": "Urea",
+    "state": "India",
+    "diseases": [
+      "Rust",
+      "Loose Smut"
+    ],
+    "inputs": {
+      "latitude": 13.165,
+      "longitude": 77.514,
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 0.0,
+      "temperature": 0.0,
+      "humidity": 0.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778009669.3517125
+  },
+  {
+    "crop": "wheat",
+    "fertilizer": "Muriate of Potash (MOP)",
+    "state": "India",
+    "diseases": [
+      "Rust",
+      "Loose Smut"
+    ],
+    "inputs": {
+      "latitude": 13.165,
+      "longitude": 77.514,
+      "N": 55.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 0.0,
+      "temperature": 0.0,
+      "humidity": 0.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778009613.246365
+  },
+  {
+    "crop": "wheat",
+    "fertilizer": "Urea",
+    "state": "India",
+    "diseases": [
+      "Rust",
+      "Loose Smut"
+    ],
+    "inputs": {
+      "latitude": 13.165,
+      "longitude": 77.514,
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 0.0,
+      "temperature": 0.0,
+      "humidity": 0.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778009609.6601207
+  },
+  {
+    "crop": "wheat",
+    "fertilizer": "Urea",
+    "state": "India",
+    "diseases": [
+      "Rust",
+      "Loose Smut"
+    ],
+    "inputs": {
+      "latitude": 13.165,
+      "longitude": 77.514,
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 0.0,
+      "temperature": 0.0,
+      "humidity": 0.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778009571.6561604
+  },
+  {
+    "crop": "wheat",
+    "fertilizer": "Urea",
+    "state": "India",
+    "diseases": [
+      "Rust",
+      "Loose Smut"
+    ],
+    "inputs": {
+      "latitude": 13.165,
+      "longitude": 77.514,
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 0.0,
+      "temperature": 0.0,
+      "humidity": 0.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778009571.2399714
+  },
+  {
+    "crop": "wheat",
+    "fertilizer": "Urea",
+    "state": "India",
+    "diseases": [
+      "Rust",
+      "Loose Smut"
+    ],
+    "inputs": {
+      "latitude": 13.165,
+      "longitude": 77.514,
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 0.0,
+      "temperature": 0.0,
+      "humidity": 0.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778009570.8298516
+  },
+  {
+    "crop": "wheat",
+    "fertilizer": "Urea",
+    "state": "India",
+    "diseases": [
+      "Rust",
+      "Loose Smut"
+    ],
+    "inputs": {
+      "latitude": 13.165,
+      "longitude": 77.514,
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 0.0,
+      "temperature": 0.0,
+      "humidity": 0.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778009570.4502666
+  },
+  {
+    "crop": "wheat",
+    "fertilizer": "Urea",
+    "state": "India",
+    "diseases": [
+      "Rust",
+      "Loose Smut"
+    ],
+    "inputs": {
+      "latitude": 13.165,
+      "longitude": 77.514,
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 0.0,
+      "temperature": 0.0,
+      "humidity": 0.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778009570.0337965
+  },
+  {
+    "crop": "wheat",
+    "fertilizer": "Urea",
+    "state": "India",
+    "diseases": [
+      "Rust",
+      "Loose Smut"
+    ],
+    "inputs": {
+      "latitude": 13.165,
+      "longitude": 77.514,
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 0.0,
+      "temperature": 0.0,
+      "humidity": 0.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778009568.589443
+  },
+  {
+    "crop": "wheat",
+    "fertilizer": "Urea",
+    "state": "India",
+    "diseases": [
+      "Rust",
+      "Loose Smut"
+    ],
+    "inputs": {
+      "latitude": 13.165,
+      "longitude": 77.514,
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 0.0,
+      "temperature": 0.0,
+      "humidity": 0.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778009534.6613946
+  },
+  {
+    "crop": "wheat",
+    "fertilizer": "Urea",
+    "state": "India",
+    "diseases": [
+      "Rust",
+      "Loose Smut"
+    ],
+    "inputs": {
+      "latitude": 13.165,
+      "longitude": 77.514,
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 0.0,
+      "temperature": 0.0,
+      "humidity": 0.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778009533.5780382
+  },
+  {
+    "crop": "wheat",
+    "fertilizer": "Urea",
+    "state": "India",
+    "diseases": [
+      "Rust",
+      "Loose Smut"
+    ],
+    "inputs": {
+      "latitude": 13.165,
+      "longitude": 77.514,
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 0.0,
+      "temperature": 0.0,
+      "humidity": 0.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778009528.8491886
+  },
+  {
+    "crop": "pulses",
+    "fertilizer": "Urea",
+    "state": "India",
+    "diseases": [
+      "Yellow Mosaic Virus"
+    ],
+    "inputs": {
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 7.0,
+      "temperature": 25.0,
+      "humidity": 50.0,
+      "rainfall": 0.0,
+      "latitude": 13.165,
+      "longitude": 77.514
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778008525.5272284
+  },
+  {
+    "crop": "pulses",
+    "fertilizer": "Urea",
+    "state": "India",
+    "diseases": [
+      "Yellow Mosaic Virus"
+    ],
+    "inputs": {
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 7.0,
+      "temperature": 25.0,
+      "humidity": 50.0,
+      "rainfall": 0.0,
+      "latitude": 13.165,
+      "longitude": 77.514
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778008437.6183493
+  },
+  {
+    "crop": "pulses",
+    "fertilizer": "Urea",
+    "state": "India",
+    "diseases": [
+      "Yellow Mosaic Virus"
+    ],
+    "inputs": {
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 7.0,
+      "temperature": 25.0,
+      "humidity": 50.0,
+      "rainfall": 0.0,
+      "latitude": 13.165,
+      "longitude": 77.514
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778008309.672196
+  },
+  {
+    "crop": "pulses",
+    "fertilizer": "Urea",
+    "state": "India",
+    "diseases": [
+      "Yellow Mosaic Virus"
+    ],
+    "inputs": {
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 7.0,
+      "temperature": 25.0,
+      "humidity": 50.0,
+      "rainfall": 0.0,
+      "latitude": 13.165,
+      "longitude": 77.514
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778008203.5046275
+  },
+  {
+    "crop": "pulses",
+    "fertilizer": "Urea",
+    "state": "Tamil Nadu",
+    "diseases": [
+      "Yellow Mosaic Virus"
+    ],
+    "inputs": {
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 7.0,
+      "temperature": 25.0,
+      "humidity": 50.0,
+      "rainfall": 0.0,
+      "latitude": 13.165,
+      "longitude": 77.514
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778007590.6528475
+  },
+  {
+    "crop": "pulses",
+    "fertilizer": "Urea",
+    "state": "Tamil Nadu",
+    "diseases": [
+      "Yellow Mosaic Virus"
+    ],
+    "inputs": {
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 7.0,
+      "temperature": 25.0,
+      "humidity": 50.0,
+      "rainfall": 0.0,
+      "latitude": 13.165,
+      "longitude": 77.514
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778007158.322614
+  },
+  {
+    "crop": "pulses",
+    "fertilizer": "Urea",
+    "state": "Tamil Nadu",
+    "diseases": [
+      "Yellow Mosaic Virus"
+    ],
+    "inputs": {
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 7.0,
+      "temperature": 25.0,
+      "humidity": 50.0,
+      "rainfall": 0.0,
+      "latitude": 13.165,
+      "longitude": 77.514
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778006919.2709403
+  },
+  {
+    "crop": "pulses",
+    "fertilizer": "Urea",
+    "state": "Goa",
+    "diseases": [
+      "Yellow Mosaic Virus"
+    ],
+    "inputs": {
+      "N": 0.0,
+      "P": 0.0,
+      "K": 0.0,
+      "pH": 7.0,
+      "temperature": 25.0,
+      "humidity": 50.0,
+      "rainfall": 0.0
+    },
+    "field_type": "Manual Field",
+    "timestamp": 1778005396.8101776
+  },
+  {
     "crop": "maize",
     "fertilizer": "Normal Fertilizers Needed",
     "state": "Tamil Nadu",

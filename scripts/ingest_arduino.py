@@ -1,13 +1,32 @@
-import serial,time,requests,threading,websocket
+import serial,time,requests,threading,websocket,sys,argparse
 
-PORT="/dev/tty.usbserial-3140"
-BAUD=9600
+def get_default_port():
+    if sys.platform.startswith('win'):
+        import serial.tools.list_ports
+        ports = list(serial.tools.list_ports.comports())
+        if ports: return ports[0].device
+        return "COM3"
+    return "/dev/tty.usbserial-3140"
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--port", default=get_default_port())
+parser.add_argument("--baud", type=int, default=9600)
+args = parser.parse_args()
+
+PORT=args.port
+BAUD=args.baud
 
 def f(x):
     try:return float(x)
     except:return 0
 
-ser=serial.Serial(PORT,BAUD,timeout=1)
+try:
+    ser=serial.Serial(PORT,BAUD,timeout=1)
+    print(f"[CONNECTED] Serial port: {PORT}")
+except Exception as e:
+    print(f"[ERROR] Could not open {PORT}: {e}")
+    sys.exit(1)
+
 time.sleep(2)
 
 def keep_ws():
@@ -22,7 +41,7 @@ def keep_ws():
 threading.Thread(target=keep_ws,daemon=True).start()
 
 frame=[]
-print("🌱 LIVE SENSOR STREAM\n")
+print("--- LIVE SENSOR STREAM STARTED ---\n")
 
 while True:
     try:
@@ -39,5 +58,5 @@ while True:
                 "latitude":d.get("la",0),"longitude":d.get("lo",0)
             }
             requests.post("http://127.0.0.1:8000/ingest",json=payload,timeout=2)
-            print("📡",payload)
+            print(f"[DATA SENT] {payload}")
     except: pass

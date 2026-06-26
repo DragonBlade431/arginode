@@ -18,6 +18,7 @@ app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], all
 buffer = deque(maxlen=12)
 last_emit = 0
 clients = set()
+PAUSED = False
 
 def stable_avg():
     return {k: round(np.mean([x[k] for x in buffer]), 2) for k in buffer[0]}
@@ -73,6 +74,9 @@ async def manual(d: dict):
 @app.post("/ingest")
 async def ingest(r: Request):
     global last_emit
+    if PAUSED:
+        return {"status": "paused"}
+    
     d = await r.json()
 
     for k in ["N","P","K","pH","temperature","humidity","rainfall"]:
@@ -107,6 +111,16 @@ def history():
 def clear():
     DB_FILE.write_text("[]")
     return {"status":"cleared"}
+
+@app.get("/geojson")
+def get_geojson():
+    return json.loads(Path("data/india_states.geojson").read_text())
+
+@app.post("/toggle_pause")
+async def toggle_pause():
+    global PAUSED
+    PAUSED = not PAUSED
+    return {"paused": PAUSED}
 
 # ================= LIVE WS =================
 @app.websocket("/ws/live")
